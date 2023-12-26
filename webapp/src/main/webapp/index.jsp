@@ -1,10 +1,10 @@
 <form action="action_page.php">
   <div class="container">
     <h1>HI IM Kalpana Pramodya FROM SRILANKAAAA,WElocme to my website</h1>
-    <p>Please fill in this form to create an account on kalpanas website.</p>
+    <p>Please fill in this form to create an account on kalpanas websit.</p>
     <hr>
      
-    <label for="Name"><b>Enter Name</b></label>
+    <label for="Name"><b>Enter your Nick Name</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
     

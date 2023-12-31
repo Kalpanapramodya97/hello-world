@@ -1,6 +1,10 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Deploying using the Docker Container</h1>
+<<<<<<< HEAD
+    <h1>Deploying using the Docker Container automated with the new deployment</h1>
+=======
+    <h1>HI I edited the this from another device, I need to get access from another pc using the git tokens</h1>
+>>>>>>> origin
     <p>Please fill in this form to create an account on kalpanas websit.</p>
     <hr>
      

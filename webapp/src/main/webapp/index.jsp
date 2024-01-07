@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
 <<<<<<< HEAD
-    <h1>Deploying using the Docker Container automated with the new deployment & make with the ansible intergration</h1>
+    <h1>Deploying(Kalpana Playbook) using the Docker Container automated with the new deployment & make with the ansible intergration</h1>
 =======
     <h1>HI I edited the this from another device, I need to get access from another pc using the git tokens</h1>
 >>>>>>> origin

@@ -1,6 +1,14 @@
 <form action="action_page.php">
   <div class="container">
+<<<<<<< HEAD
     <h1>Its a CI CD PIPELINE</h1>
+=======
+<<<<<<< HEAD
+    <h1>Its now CI CD pipline</h1>
+=======
+    <h1>HI I edited the this from another device, I need to get access from another pc using the git tokens</h1>
+>>>>>>> origin
+>>>>>>> c4fc0b0e4aa88168619777013457f61454dfb2e8
     <p>Please fill in this form to create an account on kalpanas websit.</p>
     <hr>
      

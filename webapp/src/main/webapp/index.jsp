@@ -4,7 +4,7 @@
     <h1>Its a CI CD PIPELINE</h1>
 =======
 <<<<<<< HEAD
-    <h1>Its now CI CD pipline</h1>
+    <h1>kalpanaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</h1>
 =======
     <h1>HI I edited the this from another device, I need to get access from another pc using the git tokens</h1>
 >>>>>>> origin
